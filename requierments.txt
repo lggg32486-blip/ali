@@ -1,0 +1,15 @@
+os
+
+time
+
+threading
+
+socket
+
+tkinter
+
+flask 
+
+Pillow 
+
+qrcode
